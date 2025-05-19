@@ -1,36 +1,36 @@
-﻿////int sayac = 0;
+int sayac = 0;
 
-////while (sayac < 10)
-////{
-////    Console.WriteLine("Kendime inanıyorum, ben bu yazılım işini hallederim!");
-////    sayac++;
-////}
-
-
-////int sayac = 1;
-
-////while (sayac <=20)
-////{
-////    Console.WriteLine(sayac);
-////    sayac++;
-
-////}
+while (sayac < 10)
+  {
+      Console.WriteLine("Kendime inanıyorum, ben bu yazılım işini hallederim!");
+      sayac++;
+  }
 
 
-//int sayac = 1;
+  int sayac = 1;
 
-//while (sayac <=20)
-//{
-//    if (sayac % 2 == 0)
-//    {
-//        Console.WriteLine(sayac);
-//    }
+  while (sayac <=20)
+  {
+      Console.WriteLine(sayac);
+      sayac++;
+
+  }
+
+
+  int sayac = 1;
+
+  while (sayac <=20)
+  {
+      if (sayac % 2 == 0)
+      {
+          Console.WriteLine(sayac);
+      }
 
 
 
-//    sayac++;
+      sayac++;
 
-//}
+  }
 
 int toplam = 0;
 int sayac = 50;
